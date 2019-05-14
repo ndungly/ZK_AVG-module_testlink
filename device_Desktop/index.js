@@ -27,27 +27,27 @@ og99488.rcdData.att_Desktop =
 };
 image80614.rcdData.att_Desktop = 
 {
-	innerHtml:	"<img id=\"tobj80614Img\" src=\"images/desktop_crop80614.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 1366px; height: 770px;\">",
-	cssText:	"visibility: inherit; position: absolute; left: 0px; top: 0px; width: 1366px; height: 770px; z-index: 4;",
+	innerHtml:	"<img id=\"tobj80614Img\" src=\"images/desktop_crop80614.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 1366px; height: 768px;\">",
+	cssText:	"visibility: inherit; position: absolute; left: 0px; top: 0px; width: 1366px; height: 768px; z-index: 4;",
 	cssClasses:	"",
 	htmlId:		"tobj80614",
 	bInsAnc:	0,
 	cwObj:		{
-		"name":	"Afbeeldingen module"
+		"name":	"titelpagina"
 	},
-	objData:	{"a":[0,288,0,[0,0,1366,770]],"rcdOvr":{"res":0},"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":0,"y":0,"width":1366,"height":770}}
+	objData:	{"a":[0,288,0,[0,0,1366,768]],"rcdOvr":{"res":0},"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":0,"y":0,"width":1366,"height":768}}
 };
 shape81861.rcdData.att_Desktop = 
 {
-	innerHtml:	"<svg viewBox=\"0 0 1370 774\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(685 387)\" style=\"\">\n	<path d=\"M 0 0 L 1370 0 L 1370 774 L 0 774 L 0 0 Z\" style=\"stroke: rgb(153, 153, 153); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-rule: nonzero; opacity:0.6;filter:alpha(opacity=60); pointer-events: auto;\" transform=\"translate(0 0) translate(-685, -387) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(685 387)\">\n		<text font-family=\"Titillium Web\" font-size=\"15.9999996\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,104,189); fill-rule: nonzero; opacity:0.6;filter:alpha(opacity=60);\">\n			<tspan x=\"0\" y=\"5.04\" fill=\"#0068BD\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: inherit; position: absolute; left: -2px; top: -1px; width: 1370px; height: 774px; z-index: 5; overflow: visible; pointer-events: none;",
+	innerHtml:	"<svg viewBox=\"0 0 1366 768\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(683 384)\" style=\"\">\n	<path d=\"M 0 0 L 1366 0 L 1366 768 L 0 768 L 0 0 Z\" style=\"stroke: rgb(153, 153, 153); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-rule: nonzero; opacity:0.6;filter:alpha(opacity=60); pointer-events: auto;\" transform=\"translate(0 0) translate(-683, -384) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(683 384)\">\n		<text font-family=\"Titillium Web\" font-size=\"15.9999996\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,104,189); fill-rule: nonzero; opacity:0.6;filter:alpha(opacity=60);\">\n			<tspan x=\"0\" y=\"5.04\" fill=\"#0068BD\"></tspan>\n		</text>\n	</g>\n</svg>",
+	cssText:	"visibility: inherit; position: absolute; left: -1.13687e-13px; top: 1.7053e-13px; width: 1366px; height: 768px; z-index: 5; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj81861",
 	bInsAnc:	0,
 	cwObj:		{
 		"name":	"Transparant rectangle"
 	},
-	objData:	{"a":[0,32,0,[-2.0000000000001137,-0.9999999999998295,1370,774]],"rcdOvr":{"res":0},"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":-2,"y":-1,"width":1370,"height":774},"btnState":"disabled","fallbackImg":"<img src=\"images/desktop_shape81861.png\" alt=\"\" title=\"\" style=\"position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; opacity: 0.6;\">"}
+	objData:	{"a":[0,32,0,[-1.1368683772161603e-13,1.7053025658242404e-13,1366,768]],"rcdOvr":{"res":0},"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":0,"y":0,"width":1366,"height":768},"btnState":"disabled","fallbackImg":"<img src=\"images/desktop_shape81861.png\" alt=\"\" title=\"\" style=\"position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; opacity: 0.6;\">"}
 };
 text81674.rcdData.att_Desktop = 
 {
@@ -113,6 +113,6 @@ rcdObj.rcdData.att_Desktop =
 	pageIdx:	1
 };
 rcdObj.pgWidth_Desktop = pgWidth_desktop;
-rcdObj.preload_Desktop = ["images/Afbeeldingen%20module.jpg","images/Group%20900.png","images/Group%20902.png"];
+rcdObj.preload_Desktop = ["images/Group%20900.png","images/Group%20902.png","images/titelpagina.jpg"];
 rcdObj.pgStyle_Desktop = 'position: absolute; left: 0px; top: 0px; width: 1366px; height: 768px; overflow: hidden; background-size: auto;'
 rcdObj.backgrd_Desktop = ["#FFFFFF","",0,0,1];
