@@ -35,7 +35,7 @@ image80614.rcdData.att_Desktop =
 	cwObj:		{
 		"name":	"titelpagina"
 	},
-	objData:	{"a":[0,288,0,[0,0,1366,768]],"rcdOvr":{"res":0},"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":0,"y":0,"width":1366,"height":768}}
+	objData:	{"a":[0,288,0,[0,0,1366,768]],"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":0,"y":0,"width":1366,"height":768}}
 };
 shape81861.rcdData.att_Desktop = 
 {
@@ -47,7 +47,7 @@ shape81861.rcdData.att_Desktop =
 	cwObj:		{
 		"name":	"Transparant rectangle"
 	},
-	objData:	{"a":[0,32,0,[-1.1368683772161603e-13,1.7053025658242404e-13,1366,768]],"rcdOvr":{"res":0},"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":0,"y":0,"width":1366,"height":768},"btnState":"disabled","fallbackImg":"<img src=\"images/desktop_shape81861.png\" alt=\"\" title=\"\" style=\"position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; opacity: 0.6;\">"}
+	objData:	{"a":[0,32,0,[-1.1368683772161603e-13,1.7053025658242404e-13,1366,768]],"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":0,"y":0,"width":1366,"height":768},"btnState":"disabled","fallbackImg":"<img src=\"images/desktop_shape81861.png\" alt=\"\" title=\"\" style=\"position: absolute; width: 100%; height: 100%; top: 0px; left: 0px; opacity: 0.6;\">"}
 };
 text81674.rcdData.att_Desktop = 
 {
@@ -59,7 +59,7 @@ text81674.rcdData.att_Desktop =
 	cwObj:		{
 		"name":	"Title1"
 	},
-	objData:	{"a":[0,32,0,[123,227,1121,154]],"rcdOvr":{"res":0},"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":123,"y":227,"width":1121,"height":154},"dwTextFlags":0,"marginSize":0,"textPublishLang":"Inherit"}
+	objData:	{"a":[0,32,0,[123,227,1121,154]],"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":123,"y":227,"width":1121,"height":154},"dwTextFlags":0,"marginSize":0,"textPublishLang":"Inherit"}
 };
 text81767.rcdData.att_Desktop = 
 {
@@ -71,7 +71,7 @@ text81767.rcdData.att_Desktop =
 	cwObj:		{
 		"name":	"Subtitle1"
 	},
-	objData:	{"a":[0,32,0,[119,368,1121,77]],"rcdOvr":{"res":0},"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":119,"y":368,"width":1121,"height":77},"dwTextFlags":0,"marginSize":0,"textPublishLang":"Inherit"}
+	objData:	{"a":[0,32,0,[119,368,1121,77]],"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":119,"y":368,"width":1121,"height":77},"dwTextFlags":0,"marginSize":0,"textPublishLang":"Inherit"}
 };
 image82043.rcdData.att_Desktop = 
 {
@@ -88,7 +88,7 @@ image82043.rcdData.att_Desktop =
     if(typeof pF == 'function') pF(); }}
 	]
 	},
-	objData:	{"a":[4,288,0,[448,537,219,77]],"rcdOvr":{"res":0},"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":448,"y":537,"width":219,"height":77}}
+	objData:	{"a":[4,288,0,[448,537,219,77]],"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":448,"y":537,"width":219,"height":77}}
 };
 image82052.rcdData.att_Desktop = 
 {
@@ -105,7 +105,7 @@ image82052.rcdData.att_Desktop =
     if(typeof pF == 'function') pF(); }}
 	]
 	},
-	objData:	{"a":[4,288,0,[705,537,220,77]],"rcdOvr":{"res":0},"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":705,"y":537,"width":220,"height":77}}
+	objData:	{"a":[4,288,0,[705,537,220,77]],"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":705,"y":537,"width":220,"height":77}}
 };
 rcdObj.rcdData.att_Desktop = 
 {
