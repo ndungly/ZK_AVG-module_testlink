@@ -501,6 +501,9 @@ function init_page()
     }},
     {type:6,on:1001,delay:0,name:'OnGroupShow', actItem:function(){
         grpAction3for99968();
+    }},
+    {type:6,on:1001,delay:0,name:'OnGroupShow', actItem:function(){
+        grpAction4for99968();
     }}];
 		og99960.cwObj={};
 		og99960.cwObj.arChld=[
@@ -642,6 +645,13 @@ if( is.min ) {
 
 	grpAction3for99968 = function(pF){
     shape100034.show(); 
+    if(typeof pF == 'function') pF();
+
+};
+
+	grpAction4for99968 = function(pF){
+    if(VarQuestion_99947.equals('' +  VarCorrectAns_99993.getValueForDisplay() + ''))og99911.show(); else og99924.show(); 
+    if(typeof pF == 'function') pF();
     if(typeof pF == 'function') pF();
 
 };
