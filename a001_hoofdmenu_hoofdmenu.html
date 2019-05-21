@@ -528,6 +528,29 @@ function init_page()
     {type:6,on:1001,delay:0,name:'OnGroupShow', actItem:function(){
         grpAction6for99437();
     }}];
+		og101515.cwObj={};
+		og101515.cwObj.arChld=[
+    {type:6,on:1001,delay:0,name:'OnGroupShow', actItem:function(){
+        grpAction0for101515();
+    }},
+    {type:6,on:1001,delay:0,name:'OnGroupHide', actItem:function(){
+        grpAction1for101515();
+    }},
+    {type:6,on:1001,delay:0,name:'OnGroupShow', actItem:function(){
+        grpAction2for101515();
+    }},
+    {type:6,on:1001,delay:0,name:'OnGroupHide', actItem:function(){
+        grpAction3for101515();
+    }},
+    {type:6,on:1001,delay:0,name:'OnGroupShow', actItem:function(){
+        grpAction4for101515();
+    }},
+    {type:6,on:1001,delay:0,name:'OnGroupHide', actItem:function(){
+        grpAction5for101515();
+    }},
+    {type:6,on:1001,delay:0,name:'OnGroupShow', actItem:function(){
+        grpAction6for101515();
+    }}];
 		og99337.cwObj={};
 		og99337.cwObj.arChld=[
     ];
@@ -584,6 +607,10 @@ if(VarC3.contains('_done')&&!VarC4.contains('_done')){
 {og99437.issueActions(1001);}
 }
 else if(typeof pF == 'function') pF();
+if(VarC1.contains('_done')&&VarC2.contains('_done')&&VarC3.contains('_done')&&VarC4.contains('_done')){
+{og101515.issueActions(1001);}
+}
+else if(typeof pF == 'function') pF();
 		trivPage.issueShowActions(arWnds);
 		trivArExec(arWnds,function(wnd){ wnd.issueActions(11); });
 		trivPage.actionMute();
@@ -612,6 +639,7 @@ if( is.min ) {
 	var og99435 = new jsWndOther(); //State CH2
 	var og99436 = new jsWndOther(); //State CH3
 	var og99437 = new jsWndOther(); //State CH4
+	var og101515 = new jsWndOther(); //State all
 	var shape99316 = new jsWndShape(); //Line
 	var image99295 = new jsWndImage(); //Menu_koffie
 	var image99294 = new jsWndImage(); //Menu_boterham
@@ -788,6 +816,49 @@ if( is.min ) {
 };
 
 	og99437.type=14;
+	grpAction0for101515 = function(pF){
+    og99377.show(); 
+    if(typeof pF == 'function') pF();
+
+};
+
+	grpAction1for101515 = function(pF){
+    og99346.hide(); 
+    if(typeof pF == 'function') pF();
+
+};
+
+	grpAction2for101515 = function(pF){
+    og99344.show(); 
+    if(typeof pF == 'function') pF();
+
+};
+
+	grpAction3for101515 = function(pF){
+    og99378.hide(); 
+    if(typeof pF == 'function') pF();
+
+};
+
+	grpAction4for101515 = function(pF){
+    og99357.show(); 
+    if(typeof pF == 'function') pF();
+
+};
+
+	grpAction5for101515 = function(pF){
+    og99389.hide(); 
+    if(typeof pF == 'function') pF();
+
+};
+
+	grpAction6for101515 = function(pF){
+    og99388.show(); 
+    if(typeof pF == 'function') pF();
+
+};
+
+	og101515.type=14;
 	og99337.arChld=[textbutton99347,image78015,image99302,text99317];
 	og99337.type=14;
 	og99377.arChld=[image82441,text78989];
@@ -815,7 +886,7 @@ if( is.min ) {
 	var alertCtr = 0;
 	var trivPageId=77699; //trivPage.id
 	var arWnds = [shape80599,image80597,shape77710,textbutton100174,text77990,shape77769,shape99316,image99295,image99294,image99293,textbutton99347,image78015,image99302,text99317,image82441,text78989,textbutton99352,image99333,image99304,text99321,image99280,text99291,shape99345,image99340,text99339,textbutton99364,image99308,image99358,text99325,text99292,image99285,shape99384,text99379,image99380,image99312,image99371,textbutton99369,text99329,image78257,text79055,shape99395,image99390,text99391,shape99194,shape99193,image99199,image99201,image99205,image99209,image99213,image99217,image99221,image99233,image99237,image99239,image99243,image99247,image99251,image99255,image99275,image99271,image99259,image99267,image99263,image99229,image99225,textbutton100188,text82851,text82852];
-	var arAttachObj = [og99488,shape80599,image80597,shape77710,textbutton100174,text77990,shape77769,og99432,og99435,og99436,og99437,shape99316,image99295,image99294,image99293,og99337,textbutton99347,image78015,image99302,text99317,og99377,image82441,text78989,og99338,textbutton99352,image99333,image99304,text99321,og99344,image99280,text99291,og99346,shape99345,image99340,text99339,og99363,textbutton99364,image99308,image99358,text99325,og99357,text99292,image99285,og99378,shape99384,text99379,image99380,og99376,image99312,image99371,textbutton99369,text99329,og99388,image78257,text79055,og99389,shape99395,image99390,text99391,og99198,shape99194,shape99193,image99199,image99201,image99205,image99209,image99213,image99217,image99221,image99233,image99237,image99239,image99243,image99247,image99251,image99255,image99275,image99271,image99259,image99267,image99263,image99229,image99225,textbutton100188,text82851,text82852];
+	var arAttachObj = [og99488,shape80599,image80597,shape77710,textbutton100174,text77990,shape77769,og99432,og99435,og99436,og99437,og101515,shape99316,image99295,image99294,image99293,og99337,textbutton99347,image78015,image99302,text99317,og99377,image82441,text78989,og99338,textbutton99352,image99333,image99304,text99321,og99344,image99280,text99291,og99346,shape99345,image99340,text99339,og99363,textbutton99364,image99308,image99358,text99325,og99357,text99292,image99285,og99378,shape99384,text99379,image99380,og99376,image99312,image99371,textbutton99369,text99329,og99388,image78257,text79055,og99389,shape99395,image99390,text99391,og99198,shape99194,shape99193,image99199,image99201,image99205,image99209,image99213,image99217,image99221,image99233,image99237,image99239,image99243,image99247,image99251,image99255,image99275,image99271,image99259,image99267,image99263,image99229,image99225,textbutton100188,text82851,text82852];
 	var arPooledMedia = [];
 }
 /*! jQuery v3.3.1 | (c) JS Foundation and other contributors | jquery.org/license */
